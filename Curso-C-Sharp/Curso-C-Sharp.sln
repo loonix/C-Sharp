@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List03-Ex07-Bissexto", "Lis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List03-Ex9-PesoIdeal", "List03-Ex9-PesoIdeal\List03-Ex9-PesoIdeal.csproj", "{508B9CED-97B0-478E-A1B9-210F4C10443C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List03-Ex10-IMC", "List03-Ex10-IMC\List03-Ex10-IMC.csproj", "{A22CA837-5B12-446F-8EA6-61450CFB986C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{508B9CED-97B0-478E-A1B9-210F4C10443C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{508B9CED-97B0-478E-A1B9-210F4C10443C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{508B9CED-97B0-478E-A1B9-210F4C10443C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A22CA837-5B12-446F-8EA6-61450CFB986C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A22CA837-5B12-446F-8EA6-61450CFB986C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A22CA837-5B12-446F-8EA6-61450CFB986C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A22CA837-5B12-446F-8EA6-61450CFB986C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

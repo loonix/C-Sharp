@@ -1,0 +1,6 @@
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List03-Ex10-IMC\bin\Debug\List03-Ex10-IMC.exe.config
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List03-Ex10-IMC\bin\Debug\List03-Ex10-IMC.exe
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List03-Ex10-IMC\bin\Debug\List03-Ex10-IMC.pdb
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List03-Ex10-IMC\obj\Debug\List03-Ex10-IMC.csprojAssemblyReference.cache
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List03-Ex10-IMC\obj\Debug\List03-Ex10-IMC.exe
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List03-Ex10-IMC\obj\Debug\List03-Ex10-IMC.pdb

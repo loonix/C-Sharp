@@ -13,6 +13,7 @@ namespace List03_Ex10_IMC
             double altura;
             double peso;
             double imc;
+            string diagnostico = "";
 
             Console.Write("Introduza o peso (kg): ");
             peso = double.Parse(Console.ReadLine());
@@ -24,25 +25,27 @@ namespace List03_Ex10_IMC
 
             if (imc < 20)
             {
-                Console.WriteLine("Diagnostico: Baixo Peso");
+                diagnostico = "Baixo Peso";
             }
             else if (imc < 25)
             {
-                Console.WriteLine("Diagnostico: Normal");
+                diagnostico = "Normal";
             }
             else if (imc < 30)
             {
-                Console.WriteLine("Diagnostico: Excesso de peso");
+                diagnostico = "Excesso de peso";
             }
             else if (imc < 35)
             {
-                Console.WriteLine("Diagnostico: Obesidade");
+                diagnostico = "Obesidade";
             }
             else
             {
-                Console.WriteLine("Diagnostico: Obesidade Morbida");
+                diagnostico = "Obesidade Morbida";
             }
             Console.WriteLine("IMC: " + imc);
+            Console.WriteLine("Diagnostico: " + diagnostico);
+
             Console.WriteLine("Prima enter para sair...");
             Console.ReadKey();
 

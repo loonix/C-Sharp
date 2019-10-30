@@ -1,0 +1,6 @@
+C:\Users\danie\Documents\Universidade\C-Sharp\Curso-C-Sharp\List03-Ex9-PesoIdeal\bin\Debug\List03-Ex9-PesoIdeal.exe.config
+C:\Users\danie\Documents\Universidade\C-Sharp\Curso-C-Sharp\List03-Ex9-PesoIdeal\bin\Debug\List03-Ex9-PesoIdeal.exe
+C:\Users\danie\Documents\Universidade\C-Sharp\Curso-C-Sharp\List03-Ex9-PesoIdeal\bin\Debug\List03-Ex9-PesoIdeal.pdb
+C:\Users\danie\Documents\Universidade\C-Sharp\Curso-C-Sharp\List03-Ex9-PesoIdeal\obj\Debug\List03-Ex9-PesoIdeal.exe
+C:\Users\danie\Documents\Universidade\C-Sharp\Curso-C-Sharp\List03-Ex9-PesoIdeal\obj\Debug\List03-Ex9-PesoIdeal.pdb
+C:\Users\danie\Documents\Universidade\C-Sharp\Curso-C-Sharp\List03-Ex9-PesoIdeal\obj\Debug\List03-Ex9-PesoIdeal.csprojAssemblyReference.cache

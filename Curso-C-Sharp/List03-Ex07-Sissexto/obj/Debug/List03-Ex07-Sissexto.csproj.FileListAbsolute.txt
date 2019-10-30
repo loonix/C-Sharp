@@ -1,0 +1,6 @@
+C:\Users\danie\Documents\Universidade\C-Sharp\List03-Ex07-Sissexto\List03-Ex07-Sissexto\bin\Debug\List03-Ex07-Sissexto.exe.config
+C:\Users\danie\Documents\Universidade\C-Sharp\List03-Ex07-Sissexto\List03-Ex07-Sissexto\bin\Debug\List03-Ex07-Sissexto.exe
+C:\Users\danie\Documents\Universidade\C-Sharp\List03-Ex07-Sissexto\List03-Ex07-Sissexto\bin\Debug\List03-Ex07-Sissexto.pdb
+C:\Users\danie\Documents\Universidade\C-Sharp\List03-Ex07-Sissexto\List03-Ex07-Sissexto\obj\Debug\List03-Ex07-Sissexto.csprojAssemblyReference.cache
+C:\Users\danie\Documents\Universidade\C-Sharp\List03-Ex07-Sissexto\List03-Ex07-Sissexto\obj\Debug\List03-Ex07-Sissexto.exe
+C:\Users\danie\Documents\Universidade\C-Sharp\List03-Ex07-Sissexto\List03-Ex07-Sissexto\obj\Debug\List03-Ex07-Sissexto.pdb

@@ -1,0 +1,5 @@
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List03-Ex13-Peso-Planetas\bin\Debug\List03-Ex13-Peso-Planetas.exe.config
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List03-Ex13-Peso-Planetas\bin\Debug\List03-Ex13-Peso-Planetas.exe
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List03-Ex13-Peso-Planetas\bin\Debug\List03-Ex13-Peso-Planetas.pdb
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List03-Ex13-Peso-Planetas\obj\Debug\List03-Ex13-Peso-Planetas.exe
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List03-Ex13-Peso-Planetas\obj\Debug\List03-Ex13-Peso-Planetas.pdb

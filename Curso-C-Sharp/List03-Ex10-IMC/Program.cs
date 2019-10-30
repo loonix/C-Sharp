@@ -26,19 +26,19 @@ namespace List03_Ex10_IMC
             {
                 Console.WriteLine("Diagnostico: Baixo Peso");
             }
-            else if (imc >= 20 && imc < 25)
+            else if (imc < 25)
             {
                 Console.WriteLine("Diagnostico: Normal");
             }
-            else if (imc >= 25 && imc < 30)
+            else if (imc < 30)
             {
                 Console.WriteLine("Diagnostico: Excesso de peso");
             }
-            else if (imc >= 30 && imc < 35)
+            else if (imc < 35)
             {
                 Console.WriteLine("Diagnostico: Obesidade");
             }
-            else if (imc >= 35)
+            else
             {
                 Console.WriteLine("Diagnostico: Obesidade Morbida");
             }

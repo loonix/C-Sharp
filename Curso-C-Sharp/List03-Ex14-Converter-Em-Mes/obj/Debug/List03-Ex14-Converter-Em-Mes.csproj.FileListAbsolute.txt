@@ -1,0 +1,6 @@
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List03-Ex14-Converter-Em-Mes\bin\Debug\List03-Ex14-Converter-Em-Mes.exe.config
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List03-Ex14-Converter-Em-Mes\bin\Debug\List03-Ex14-Converter-Em-Mes.exe
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List03-Ex14-Converter-Em-Mes\bin\Debug\List03-Ex14-Converter-Em-Mes.pdb
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List03-Ex14-Converter-Em-Mes\obj\Debug\List03-Ex14-Converter-Em-Mes.csprojAssemblyReference.cache
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List03-Ex14-Converter-Em-Mes\obj\Debug\List03-Ex14-Converter-Em-Mes.exe
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List03-Ex14-Converter-Em-Mes\obj\Debug\List03-Ex14-Converter-Em-Mes.pdb

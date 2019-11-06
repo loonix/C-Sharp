@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List03-Ex10-IMC", "List03-E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List03-Ex13-Peso-Planetas", "List03-Ex13-Peso-Planetas\List03-Ex13-Peso-Planetas.csproj", "{0EEBA22D-F573-494B-B1FA-9A7F15B23BCA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List03-Ex14-Converter-Em-Mes", "List03-Ex14-Converter-Em-Mes\List03-Ex14-Converter-Em-Mes.csproj", "{61C4F884-6086-4786-9382-4164E39D3C9D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{0EEBA22D-F573-494B-B1FA-9A7F15B23BCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EEBA22D-F573-494B-B1FA-9A7F15B23BCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EEBA22D-F573-494B-B1FA-9A7F15B23BCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61C4F884-6086-4786-9382-4164E39D3C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61C4F884-6086-4786-9382-4164E39D3C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61C4F884-6086-4786-9382-4164E39D3C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61C4F884-6086-4786-9382-4164E39D3C9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

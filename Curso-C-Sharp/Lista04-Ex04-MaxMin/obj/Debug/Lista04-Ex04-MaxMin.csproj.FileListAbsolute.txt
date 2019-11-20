@@ -1,0 +1,6 @@
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\Lista04-Ex04-MaxMin\bin\Debug\Lista04-Ex04-MaxMin.exe.config
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\Lista04-Ex04-MaxMin\bin\Debug\Lista04-Ex04-MaxMin.exe
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\Lista04-Ex04-MaxMin\bin\Debug\Lista04-Ex04-MaxMin.pdb
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\Lista04-Ex04-MaxMin\obj\Debug\Lista04-Ex04-MaxMin.csprojAssemblyReference.cache
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\Lista04-Ex04-MaxMin\obj\Debug\Lista04-Ex04-MaxMin.exe
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\Lista04-Ex04-MaxMin\obj\Debug\Lista04-Ex04-MaxMin.pdb

@@ -1,0 +1,6 @@
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List04-Ex01-Media-N-Numeros\bin\Debug\List04-Ex01-Media-N-Numeros.exe.config
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List04-Ex01-Media-N-Numeros\bin\Debug\List04-Ex01-Media-N-Numeros.exe
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List04-Ex01-Media-N-Numeros\bin\Debug\List04-Ex01-Media-N-Numeros.pdb
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List04-Ex01-Media-N-Numeros\obj\Debug\List04-Ex01-Media-N-Numeros.csprojAssemblyReference.cache
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List04-Ex01-Media-N-Numeros\obj\Debug\List04-Ex01-Media-N-Numeros.exe
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List04-Ex01-Media-N-Numeros\obj\Debug\List04-Ex01-Media-N-Numeros.pdb

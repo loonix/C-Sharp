@@ -1,0 +1,6 @@
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List04-Ex02-Loop-Bissexto\bin\Debug\List04-Ex02-Loop-Bissexto.exe.config
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List04-Ex02-Loop-Bissexto\bin\Debug\List04-Ex02-Loop-Bissexto.exe
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List04-Ex02-Loop-Bissexto\bin\Debug\List04-Ex02-Loop-Bissexto.pdb
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List04-Ex02-Loop-Bissexto\obj\Debug\List04-Ex02-Loop-Bissexto.exe
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List04-Ex02-Loop-Bissexto\obj\Debug\List04-Ex02-Loop-Bissexto.pdb
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List04-Ex02-Loop-Bissexto\obj\Debug\List04-Ex02-Loop-Bissexto.csprojAssemblyReference.cache

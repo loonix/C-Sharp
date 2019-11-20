@@ -1,0 +1,6 @@
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List04-Estudo-Ciclos\bin\Debug\List04-Estudo-Ciclos.exe.config
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List04-Estudo-Ciclos\bin\Debug\List04-Estudo-Ciclos.exe
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List04-Estudo-Ciclos\bin\Debug\List04-Estudo-Ciclos.pdb
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List04-Estudo-Ciclos\obj\Debug\List04-Estudo-Ciclos.csprojAssemblyReference.cache
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List04-Estudo-Ciclos\obj\Debug\List04-Estudo-Ciclos.exe
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List04-Estudo-Ciclos\obj\Debug\List04-Estudo-Ciclos.pdb

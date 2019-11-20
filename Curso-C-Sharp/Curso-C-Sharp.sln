@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List04-Ex02-Loop-Bissexto",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista04-Ex04-MaxMin", "Lista04-Ex04-MaxMin\Lista04-Ex04-MaxMin.csproj", "{A2B7D524-A9C8-4F8E-9FFA-1C0EECE857FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List04-Ex10-Notas-Alunos", "List04-Ex10-Notas-Alunos\List04-Ex10-Notas-Alunos.csproj", "{B011CB25-9FD6-44E3-84DB-5B561DA9922B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{A2B7D524-A9C8-4F8E-9FFA-1C0EECE857FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2B7D524-A9C8-4F8E-9FFA-1C0EECE857FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2B7D524-A9C8-4F8E-9FFA-1C0EECE857FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B011CB25-9FD6-44E3-84DB-5B561DA9922B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B011CB25-9FD6-44E3-84DB-5B561DA9922B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B011CB25-9FD6-44E3-84DB-5B561DA9922B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B011CB25-9FD6-44E3-84DB-5B561DA9922B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

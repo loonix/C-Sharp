@@ -1,0 +1,6 @@
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List04-Ex10-Notas-Alunos\bin\Debug\List04-Ex10-Notas-Alunos.exe.config
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List04-Ex10-Notas-Alunos\bin\Debug\List04-Ex10-Notas-Alunos.exe
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List04-Ex10-Notas-Alunos\bin\Debug\List04-Ex10-Notas-Alunos.pdb
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List04-Ex10-Notas-Alunos\obj\Debug\List04-Ex10-Notas-Alunos.csprojAssemblyReference.cache
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List04-Ex10-Notas-Alunos\obj\Debug\List04-Ex10-Notas-Alunos.exe
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List04-Ex10-Notas-Alunos\obj\Debug\List04-Ex10-Notas-Alunos.pdb

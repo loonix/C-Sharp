@@ -1,0 +1,5 @@
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List05-Exercicio-Par-Ou-Impar\bin\Debug\List05-Exercicio-Par-Ou-Impar.exe.config
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List05-Exercicio-Par-Ou-Impar\bin\Debug\List05-Exercicio-Par-Ou-Impar.exe
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List05-Exercicio-Par-Ou-Impar\bin\Debug\List05-Exercicio-Par-Ou-Impar.pdb
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List05-Exercicio-Par-Ou-Impar\obj\Debug\List05-Exercicio-Par-Ou-Impar.exe
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List05-Exercicio-Par-Ou-Impar\obj\Debug\List05-Exercicio-Par-Ou-Impar.pdb

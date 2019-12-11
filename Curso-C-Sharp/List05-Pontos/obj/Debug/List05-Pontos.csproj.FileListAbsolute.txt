@@ -1,0 +1,6 @@
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List05-Pontos\bin\Debug\List05-Pontos.exe.config
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List05-Pontos\bin\Debug\List05-Pontos.exe
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List05-Pontos\bin\Debug\List05-Pontos.pdb
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List05-Pontos\obj\Debug\List05-Pontos.exe
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List05-Pontos\obj\Debug\List05-Pontos.pdb
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List05-Pontos\obj\Debug\List05-Pontos.csprojAssemblyReference.cache

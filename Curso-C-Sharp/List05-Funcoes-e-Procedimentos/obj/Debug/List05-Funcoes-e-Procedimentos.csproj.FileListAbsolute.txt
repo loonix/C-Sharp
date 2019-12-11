@@ -1,0 +1,6 @@
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List05-Funcoes-e-Procedimentos\bin\Debug\List05-Funcoes-e-Procedimentos.exe.config
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List05-Funcoes-e-Procedimentos\bin\Debug\List05-Funcoes-e-Procedimentos.exe
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List05-Funcoes-e-Procedimentos\bin\Debug\List05-Funcoes-e-Procedimentos.pdb
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List05-Funcoes-e-Procedimentos\obj\Debug\List05-Funcoes-e-Procedimentos.csprojAssemblyReference.cache
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List05-Funcoes-e-Procedimentos\obj\Debug\List05-Funcoes-e-Procedimentos.exe
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List05-Funcoes-e-Procedimentos\obj\Debug\List05-Funcoes-e-Procedimentos.pdb

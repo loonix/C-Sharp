@@ -1,0 +1,6 @@
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List5-Arrays\bin\Debug\List5-Arrays.exe.config
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List5-Arrays\bin\Debug\List5-Arrays.exe
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List5-Arrays\bin\Debug\List5-Arrays.pdb
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List5-Arrays\obj\Debug\List5-Arrays.csprojAssemblyReference.cache
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List5-Arrays\obj\Debug\List5-Arrays.exe
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List5-Arrays\obj\Debug\List5-Arrays.pdb

@@ -1,0 +1,6 @@
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List06-Ex1-Sequencia-10-numeros-Vector-Divisivel-por-3\bin\Debug\List06-Ex1-Sequencia-10-numeros-Vector-Divisivel-por-3.exe.config
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List06-Ex1-Sequencia-10-numeros-Vector-Divisivel-por-3\bin\Debug\List06-Ex1-Sequencia-10-numeros-Vector-Divisivel-por-3.exe
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List06-Ex1-Sequencia-10-numeros-Vector-Divisivel-por-3\bin\Debug\List06-Ex1-Sequencia-10-numeros-Vector-Divisivel-por-3.pdb
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List06-Ex1-Sequencia-10-numeros-Vector-Divisivel-por-3\obj\Debug\List06-Ex1-Sequencia-10-numeros-Vector-Divisivel-por-3.csprojAssemblyReference.cache
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List06-Ex1-Sequencia-10-numeros-Vector-Divisivel-por-3\obj\Debug\List06-Ex1-Sequencia-10-numeros-Vector-Divisivel-por-3.exe
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List06-Ex1-Sequencia-10-numeros-Vector-Divisivel-por-3\obj\Debug\List06-Ex1-Sequencia-10-numeros-Vector-Divisivel-por-3.pdb

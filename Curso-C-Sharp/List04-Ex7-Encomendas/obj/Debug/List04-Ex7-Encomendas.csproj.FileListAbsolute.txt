@@ -1,0 +1,6 @@
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List04-Ex7-Encomendas\bin\Debug\List04-Ex7-Encomendas.exe.config
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List04-Ex7-Encomendas\bin\Debug\List04-Ex7-Encomendas.exe
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List04-Ex7-Encomendas\bin\Debug\List04-Ex7-Encomendas.pdb
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List04-Ex7-Encomendas\obj\Debug\List04-Ex7-Encomendas.csprojAssemblyReference.cache
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List04-Ex7-Encomendas\obj\Debug\List04-Ex7-Encomendas.exe
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List04-Ex7-Encomendas\obj\Debug\List04-Ex7-Encomendas.pdb

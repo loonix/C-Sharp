@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List5-Arrays", "List5-Array
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List06-Ex1-Sequencia-10-numeros-Vector-Divisivel-por-3", "List06-Ex1-Sequencia-10-numeros-Vector-Divisivel-por-3\List06-Ex1-Sequencia-10-numeros-Vector-Divisivel-por-3.csproj", "{A74A4C43-1316-44EF-B116-CE9A1064B79C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List06-Ex5-Lista-notas", "List06-Ex5-Lista-notas\List06-Ex5-Lista-notas.csproj", "{1E0A4D10-52DA-4AAD-AD4D-7D2BD007F898}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{A74A4C43-1316-44EF-B116-CE9A1064B79C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A74A4C43-1316-44EF-B116-CE9A1064B79C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A74A4C43-1316-44EF-B116-CE9A1064B79C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E0A4D10-52DA-4AAD-AD4D-7D2BD007F898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E0A4D10-52DA-4AAD-AD4D-7D2BD007F898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E0A4D10-52DA-4AAD-AD4D-7D2BD007F898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E0A4D10-52DA-4AAD-AD4D-7D2BD007F898}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

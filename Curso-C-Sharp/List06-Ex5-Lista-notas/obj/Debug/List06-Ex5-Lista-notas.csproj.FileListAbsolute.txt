@@ -1,0 +1,6 @@
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List06-Ex5-Lista-notas\bin\Debug\List06-Ex5-Lista-notas.exe.config
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List06-Ex5-Lista-notas\bin\Debug\List06-Ex5-Lista-notas.exe
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List06-Ex5-Lista-notas\bin\Debug\List06-Ex5-Lista-notas.pdb
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List06-Ex5-Lista-notas\obj\Debug\List06-Ex5-Lista-notas.exe
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List06-Ex5-Lista-notas\obj\Debug\List06-Ex5-Lista-notas.pdb
+C:\Users\danie\Documents\Universidade\C-Sharp\c-sharp\Curso-C-Sharp\List06-Ex5-Lista-notas\obj\Debug\List06-Ex5-Lista-notas.csprojAssemblyReference.cache
